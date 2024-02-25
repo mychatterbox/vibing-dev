@@ -3,7 +3,8 @@ import svelte from "@astrojs/svelte";
 import markdoc from "@astrojs/markdoc";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
-import shiki from "@astrojs/markdoc/shiki";
+import remarkToc from "remark-toc";
+import remarkCollapse from "remark-collapse";
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,6 +18,17 @@ export default defineConfig({
       filter: (p) => !p.includes("/draft/"),
     }),
   ],
+  markdown: {
+    remarkPlugins: [
+      remarkToc,
+      [
+        remarkCollapse,
+        {
+          test: "Table of contents",
+        },
+      ],
+    ],
+  },
   shikiConfig: {
     theme:  "css-variables",
     wrap: true,
