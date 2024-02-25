@@ -52,11 +52,9 @@
 
 @layer components {
   :root {
-    --astro-code-color-background:theme(colors.zinc.900);
-    /* --astro-code-color-background: theme(colors.zinc.50); */
-    --astro-code-color-text:theme(colors.zinc.100);
-    /* --astro-code-color-text: theme(colors.zinc.600); */
-    
+    --astro-code-color-background: theme(colors.zinc.900);
+
+    --astro-code-color-text: theme(colors.zinc.100);
     --astro-code-token-string: theme(colors.emerald.500);
     --astro-code-token-function: theme(colors.zinc.500);
     --astro-code-token-comment: theme(colors.blue.600);
@@ -70,9 +68,7 @@
   }
   .dark {
     --astro-code-color-background: theme(colors.zinc.100);
-    /* --astro-code-color-background: theme(colors.zinc.800); */
     --astro-code-color-text:theme(colors.zinc.900);
-    /* --astro-code-color-text: theme(colors.zinc.400); */
     --astro-code-token-function: theme(colors.zinc.900);
     --astro-code-token-string: theme(colors.emerald.600);
     --astro-code-token-comment: theme(colors.blue.400);
@@ -83,4 +79,22 @@
 .prose a {
   @apply break-words bg-red-400 ;
 } */
+/* 
+::-webkit-scrollbar {
+  @apply w-3;
+}
 
+
+::-webkit-scrollbar-track {
+  @apply bg-zinc-100 dark:bg-zinc-900;
+}
+
+
+::-webkit-scrollbar-thumb {
+  @apply bg-zinc-500 dark:bg-zinc-500;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-zinc-400 dark:bg-zinc-400;
+} */
