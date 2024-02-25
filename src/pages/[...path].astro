@@ -22,7 +22,7 @@ interface Props {
 
 const { entry } = Astro.props;
 const {
-  data: { title, description, pubDate, kind },
+  data: { title, description, pubDatetime, kind },
 } = entry;
 const { Content } = await entry.render();
 
@@ -50,7 +50,7 @@ const draft = entry.slug.startsWith("draft/");
               ) : kind === "note" ? (
                 <span class="font-medium text-emerald-700 dark:text-emerald-400">Note</span>
               ) : null
-            } {format(pubDate, "yyyy-MM-dd")}
+            } {format(pubDatetime, "yyyy-MM-dd")}
                         <!-- } published on {format(pubDate, "yyyy-MM-dd")} -->
           </div>
           {
