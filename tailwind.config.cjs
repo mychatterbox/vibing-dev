@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['"General Sans"', ...defaultTheme.fontFamily.sans],
+        sans: ['"Pretendard"', ...defaultTheme.fontFamily.sans],
         mono: ['"Berkeley Mono"', ...defaultTheme.fontFamily.mono],
       },
       typography: {

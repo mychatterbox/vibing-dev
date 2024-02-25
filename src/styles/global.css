@@ -3,11 +3,11 @@
 @import "tailwindcss/utilities";
 
 @font-face {
-  font-family: "General Sans";
+  font-family: "Pretendard";
   font-style: normal;
-  font-weight: 200 700;
+  font-weight: SemiBold;
   font-display: swap;
-  src: url(../fonts/general-sans.woff2) format("woff2");
+  src: url(../fonts/PretendardGOV-Medium.subset.woff2) format("woff2");
 }
 
 @font-face {
@@ -52,12 +52,15 @@
 
 @layer components {
   :root {
-    --astro-code-color-background: theme(colors.zinc.50);
-    --astro-code-color-text: theme(colors.zinc.600);
-    --astro-code-token-string: theme(colors.emerald.700);
-    --astro-code-token-function: theme(colors.zinc.800);
+    --astro-code-color-background:theme(colors.zinc.900);
+    /* --astro-code-color-background: theme(colors.zinc.50); */
+    --astro-code-color-text:theme(colors.zinc.100);
+    /* --astro-code-color-text: theme(colors.zinc.600); */
+    
+    --astro-code-token-string: theme(colors.emerald.500);
+    --astro-code-token-function: theme(colors.zinc.500);
     --astro-code-token-comment: theme(colors.blue.600);
-    --astro-code-token-keyword: theme(colors.orange.900);
+    --astro-code-token-keyword: theme(colors.orange.500);
 
     --astro-code-token-constant: var(--astro-code-color-text);
     --astro-code-token-parameter: var(--astro-code-color-text);
@@ -66,11 +69,13 @@
     --astro-code-token-link: var(--astro-code-token-string-expression);
   }
   .dark {
-    --astro-code-color-background: theme(colors.zinc.800);
-    --astro-code-color-text: theme(colors.zinc.400);
-    --astro-code-token-function: theme(colors.zinc.200);
-    --astro-code-token-string: theme(colors.emerald.500);
+    --astro-code-color-background: theme(colors.zinc.100);
+    /* --astro-code-color-background: theme(colors.zinc.800); */
+    --astro-code-color-text:theme(colors.zinc.900);
+    /* --astro-code-color-text: theme(colors.zinc.400); */
+    --astro-code-token-function: theme(colors.zinc.900);
+    --astro-code-token-string: theme(colors.emerald.600);
     --astro-code-token-comment: theme(colors.blue.400);
-    --astro-code-token-keyword: theme(colors.orange.100);
+    --astro-code-token-keyword: theme(colors.orange.600);
   }
 }
