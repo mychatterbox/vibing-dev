@@ -28,10 +28,10 @@ export default defineConfig({
         },
       ],
     ],
+    shikiConfig: { theme: 'css-variables' }
   },
-  shikiConfig: {
-    theme:  "css-variables",
     wrap: true,
-  },
+
   scopedStyleStrategy: "where",
+  
 });

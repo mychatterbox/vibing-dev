@@ -52,13 +52,15 @@
 
 @layer components {
   :root {
-    --astro-code-color-background: theme(colors.zinc.900);
+    --astro-code-color-background: #232320;
+    /* --astro-code-color-background: theme(colors.zinc.900); */
 
     --astro-code-color-text: theme(colors.zinc.100);
     --astro-code-token-string: theme(colors.emerald.500);
     --astro-code-token-function: theme(colors.zinc.500);
     --astro-code-token-comment: theme(colors.blue.600);
-    --astro-code-token-keyword: theme(colors.orange.500);
+    --astro-code-token-keyword: #e35955;
+    /* --astro-code-token-keyword: theme(colors.orange.500); */
 
     --astro-code-token-constant: var(--astro-code-color-text);
     --astro-code-token-parameter: var(--astro-code-color-text);
@@ -72,7 +74,8 @@
     --astro-code-token-function: theme(colors.zinc.900);
     --astro-code-token-string: theme(colors.emerald.600);
     --astro-code-token-comment: theme(colors.blue.400);
-    --astro-code-token-keyword: theme(colors.orange.600);
+    /* --astro-code-token-keyword: theme(colors.orange.600); */
+    --astro-code-token-keyword: #c73a49;
   }
 }
 /* // 링크
