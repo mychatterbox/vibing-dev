@@ -5,7 +5,7 @@ const published = defineCollection({
     kind: z.enum(["article", "note"]).default("note"),
     title: z.string(),
     description: z.string(),
-    pubDatetime: z.coerce.date(),
+    pubDate: z.coerce.date(),
     tags: z.string().array().default([]),
     list: z.boolean().default(true),
   }),
