@@ -79,3 +79,8 @@
     --astro-code-token-keyword: theme(colors.orange.600);
   }
 }
+/* // 링크
+.prose a {
+  @apply break-words bg-red-400 ;
+} */
+

@@ -6,5 +6,6 @@ export default {
     { files: "*.astro", options: { parser: "astro" } },
     { files: "*.svelte", options: { parser: "svelte" } },
     { files: "*.mdoc", options: { parser: "markdown" } },
+    { files: "*.md", options: { parser: "markdown" } },
   ],
 };
