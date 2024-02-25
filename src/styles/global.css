@@ -52,8 +52,7 @@
 
 @layer components {
   :root {
-    --astro-code-color-background: #232320;
-    /* --astro-code-color-background: theme(colors.zinc.900); */
+    --astro-code-color-background: theme(colors.zinc.900);
 
     --astro-code-color-text: theme(colors.zinc.100);
     --astro-code-token-string: theme(colors.emerald.500);
