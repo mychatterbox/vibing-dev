@@ -1,16 +1,20 @@
 <div
   class:list={[
-    "prose prose-zinc max-w-none dark:prose-invert",
+    "prose prose-zinc max-w-none dark:prose-invert ",
     // fences (code blocks)
-    "prose-pre:rounded-none prose-pre:sm:rounded-md",
-    "prose-pre:border-y prose-pre:border-zinc-400/20 prose-pre:sm:border-x",
+    "prose-pre:rounded-none prose-pre:sm:rounded-md prose-pre:flex",
+    "prose-pre:border-y prose-pre:border-zinc-400/20 prose-pre:sm:border-x ",
+    // "prose-pre:font-mono",
+    // "prose-pre:font-base",
     // inline code
-    "prose-code:rounded prose-code:p-1",
+    // "prose-code:rounded prose-code:p-1",
     // "prose-code:bg-zinc-900/20 prose-code:dark:bg-zinc-100/50",
-    "prose-code:bg-zinc-900/20 prose-code:dark:bg-zinc-100/20",
-    
+    "prose-code:bg-zinc-900/30 prose-code:dark:bg-zinc-100/30 ",
+    "prose-code:text-base",
+    "prose-code:font-normal", 
+    "prose-code:font-sans",
     "prose-code:before:content-[] prose-code:after:content-[]",
-    "prose-code:font-normal prose-code:dark:font-normal",
+    "prose-code:rounded prose-code:py-0.5 prose-code:px-1",
     // blockquote
     "prose-blockquote:border-zinc-900 prose-blockquote:dark:border-zinc-400",
     // image
@@ -19,3 +23,29 @@
 >
   <slot />
 </div>
+
+<!-- <div
+  class:list={[
+    "prose prose-zinc max-w-none dark:prose-invert",
+    // fences (code blocks)
+    "prose-pre:rounded-none prose-pre:sm:rounded-md",
+    "prose-pre:border-y prose-pre:border-zinc-400/20 prose-pre:sm:border-x",
+    // "prose-pre:font-sans",
+    // "prose-pre:font-base",
+    // inline code
+    // "prose-code:rounded prose-code:p-1",
+    // "prose-code:bg-zinc-900/20 prose-code:dark:bg-zinc-100/50",
+    "prose-code:bg-zinc-900/20 prose-code:dark:bg-zinc-100/20 ",
+    "prose-code:font-normal", 
+    "prose-code:font-sans",
+    "prose-code:before:content-[] prose-code:after:content-[]",
+    // "prose-code:font-sans", "prose-code:dark:font-normal",
+    // blockquote
+    "prose-blockquote:border-zinc-900 prose-blockquote:dark:border-zinc-400",
+    // image
+    "prose-img:mx-auto prose-img:rounded-md",
+  ]}
+>
+  <slot />
+</div>
+ -->
