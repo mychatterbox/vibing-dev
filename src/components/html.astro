@@ -17,6 +17,7 @@ export interface Props {
   ogDescription?: string;
   ogImage?: string;
   themeColor?: string;
+  tags?: string[];
 }
 
 const {
@@ -29,6 +30,7 @@ const {
   ogDescription = description,
   ogImage = banner.src,
   themeColor = "#18181b",
+  // tags,
 } = Astro.props;
 
 function canonical() {
@@ -40,7 +42,7 @@ const url = canonical();
 ---
 
 <!doctype html>
-<html class="h-full antialiased" lang="en">
+<html class="h-full antialiased" lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -59,7 +61,7 @@ const url = canonical();
       <meta property="twitter:card" content="summary_large_image" />
     </slot>
     <link rel="icon" href={icon.src} type="image/svg+xml" />
-    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48" />
     <link rel="apple-touch-icon" href={at_icon.src} />
     <link rel="manifest" href="/site.webmanifest" crossorigin="use-credentials" />
     {themeColor && <meta name="theme-color" content={themeColor} />}
