@@ -5,7 +5,7 @@
 @font-face {
   font-family: "Pretendard";
   font-style: normal;
-  font-weight: SemiBold;
+  font-weight: 200 700;
   font-display: swap;
   src: url(../fonts/PretendardGOV-Medium.subset.woff2) format("woff2");
 }
