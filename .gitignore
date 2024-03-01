@@ -32,4 +32,4 @@ pnpm-debug.log*
 .obsidian
 
 # etc
-*.bak
+.bak
