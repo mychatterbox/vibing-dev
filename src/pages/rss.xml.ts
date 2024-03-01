@@ -7,7 +7,7 @@ export async function GET(context: RSSOptions) {
   pub.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
   return rss({
     title: "mychatterbox",
-    description: "Outlet for whatever I'm vibing. Mostly web dev.",
+    description: "이런 저런 이런 것도 팁이 되나 싶은 정보들",
     site: context.site,
     items: pub.map(({ data: { title, pubDate, description }, slug }) => ({
       title,
