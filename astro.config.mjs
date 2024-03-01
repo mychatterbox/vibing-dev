@@ -8,7 +8,7 @@ import remarkCollapse from "remark-collapse";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://teal-pastelito-b8b413.netlify.app",
+  site: "https://chatter.kr",
   trailingSlash: "never",
   integrations: [
     svelte(),
