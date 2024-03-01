@@ -79,7 +79,7 @@
 }
 
 .prose a {
-  @apply break-words text-blue-400 ;
+  @apply break-words hover:text-blue-400 ;
 }  
 
 
