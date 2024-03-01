@@ -23,8 +23,13 @@ pnpm-debug.log*
 
 # ideas are private
 /src/content/ideas
+/src/content/blog-작성중
 
 # editors
 .vscode
 .helix
 .idea
+.obsidian
+
+# etc
+*.bak
