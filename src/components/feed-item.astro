@@ -23,15 +23,15 @@ const draft = entry.slug.startsWith("draft/");
     >
       {title}
     </a>
-    <div class="flex items-center space-x-1 py-1">
+    <div class="flex items-center space-x-1 pl-0.5">
       <div class="text-sm text-zinc-600 dark:text-zinc-400">
         {
           kind === "article" ? (
-          <a href={`/kind/${kind}`} class="font-medium text-blue-600 dark:text-blue-400">
+          <a href={`/kind/${kind}`} class="font-medium text-blue-600 dark:text-blue-400 pr-2">
               Article
             </a>
           ) : kind === "note" ? (
-          <a href={`/kind/${kind}`} class="font-medium text-emerald-700 dark:text-emerald-400">
+          <a href={`/kind/${kind}`} class="font-medium text-emerald-700 dark:text-emerald-400 pr-2">
               Note
             </a>
           ) : null
