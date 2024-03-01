@@ -77,11 +77,12 @@
     --astro-code-token-keyword: #c73a49;
   }
 }
-/* // 링크
+
 .prose a {
-  @apply break-words bg-red-400 ;
-} */
-/* 
+  @apply break-words text-blue-400 ;
+}  
+
+
 ::-webkit-scrollbar {
   @apply w-3;
 }
@@ -99,4 +100,4 @@
 
 ::-webkit-scrollbar-thumb:hover {
   @apply bg-zinc-400 dark:bg-zinc-400;
-} */
+}
