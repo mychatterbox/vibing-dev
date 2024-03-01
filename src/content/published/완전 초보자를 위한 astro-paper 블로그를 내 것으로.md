@@ -74,7 +74,7 @@ GitHub에 제작자가 등록, 공개한 astro-paper 를 내 저장공간으로 
 > ![netlify](../../assets/blog-images/2024/my-astro-paper_5.png)  
 > 다음 단계인 Let's deploy your project 화면에서는 수정할 것이 없고, 제일 밑의 `Deploy astro-paper` 클릭합니다.
 > 잠시 후 아래와 비슷한 결과가 나옵니다.
-> ![netlify](../../assets/blog-images/2024/my-astro-paper_6.png)  <br>
+> ![netlify](../../assets/blog-images/2024/my-astro-paper_6.png) 
 >
 > 이제 확인해봅시다.  <br>
 >
@@ -89,5 +89,4 @@ GitHub에 제작자가 등록, 공개한 astro-paper 를 내 저장공간으로 
 이후엔 이보다 더 간단합니다.  
 여러분의 `https://github.com/chobo/astro-paper` 저장공간에 어떤 파일(블로그 글)을 업로드 하기만 하면 `netlify` 사이트가 지금처럼 수동이 아닌, 앞으로는 자동으로 작업을 해서 우리 블로그를 업데이트 해줍니다.  
 
-하지만, 지금은 온전히 내 것이 아닌 기분이 드니까 이사하기 전 인테리어 하듯이 여기저기를 수정해야 합니다.  
-이건 정말 초보 입장에서 노가다일 수밖에 없습니다. 
+업로드 하는 방법은 Github Desktop 프로그램에서 github.com 의 내 저장공간(repo)을 연결해 준 뒤, 파일을 추가, 수정 후 업로드 하면 됩니다. 
