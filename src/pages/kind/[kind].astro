@@ -19,7 +19,7 @@ pub.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 <Html title="chatter.kr" description="이런 것도 팁이 되나 싶은 정보들">
   <Nav />
   <main class="px-4 pb-12" transition:animate="fade" transition:name="main">
-    <ul class="mx-auto max-w-screen-lg break-words">
+    <ul class="mx-auto max-w-screen-lg break-words font-medium">
     <!-- <ul class="mx-auto max-w-prose">       -->
       {pub.map((entry) => <FeedItem entry={entry} />)}
     </ul>
