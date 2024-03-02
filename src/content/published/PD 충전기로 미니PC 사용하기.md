@@ -8,7 +8,7 @@ draft: false
 tags:
   - 미니pc
   - 충전기
-ogImage: https://chatter.kr/_astro/minipc-pdcharger_1.vHc2n2lZ_g4xFe.webp.jpg
+ogImage: https://chatter.kr/_astro/minipc-pdcharger_1.C8dzafaV_k7tys.webp
 description: N100 등 미니PC 를 일반 PD 충전기로 사용할 때 주의할 점과 팁을 알아봅시다.
 keywords:
   - 미니pc 충전기
