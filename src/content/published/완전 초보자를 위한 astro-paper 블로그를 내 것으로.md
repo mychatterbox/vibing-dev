@@ -9,7 +9,7 @@ tags:
   - github
   - netlify
   - astro-paper
-ogImage: https://astro-paper.pages.dev/_astro/AstroPaper-v4.E8pWr1CH_Zmry1N.webp.webp
+ogImage: ""
 description: astro-paper 블로그 디자인이나 기능이 마음에 드나요? 써봅시다.
 keywords:
   - astro-paper
