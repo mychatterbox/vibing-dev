@@ -34,9 +34,9 @@ const {
 } = Astro.props;
 
 function canonical() {
-  if (Astro.url.pathname === "/") return Astro.site;
+  if (Astro.url.pathname === '/') return Astro.site;
   const s = new URL(Astro.url.pathname, Astro.site).toString();
-  return s.endsWith("/") ? s.slice(0, -1) : s;
+  return s.endsWith('/') ? s.slice(0, -1) : s;
 }
 const url = canonical();
 ---
