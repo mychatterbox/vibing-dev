@@ -33,13 +33,21 @@ const {
   // tags,
 } = Astro.props;
 
-function canonical() {
-  if (Astro.url.pathname === "/") return Astro.site;
-  const s = new URL(Astro.url.pathname, Astro.site).toString();
-  return s.endsWith("/") ? s.slice(0, -1) : s;
+// function canonical() {
+//   if (Astro.url.pathname === "/") return Astro.site;
+//   const s = new URL(Astro.url.pathname, Astro.site).toString();
+//   return s.endsWith("/") ? s.slice(0, -1) : s;
+// }
+// const url = canonical();
+
+function removeTrailingSlash(str: string) {
+  return str.replace(/\/+$/, '');
 }
-const url = canonical();
+
+const url = removeTrailingSlash(new URL(Astro.url.pathname, Astro.site).toString());
 ---
+
+
 
 <!doctype html>
 <html class="h-full antialiased" lang="ko">
