@@ -18,6 +18,7 @@ export default defineConfig({
       filter: (p) => !p.includes("/draft/"),
     }),
   ],
+  output: "static",
   markdown: {
     remarkPlugins: [
       remarkToc,
