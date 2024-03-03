@@ -10,6 +10,9 @@ import remarkCollapse from "remark-collapse";
 export default defineConfig({
   site: "https://chatter.kr",
   trailingSlash: "never",
+  build: {
+    format: 'file',
+  },
   integrations: [
     svelte(),
     tailwind(),
