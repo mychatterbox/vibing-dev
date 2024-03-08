@@ -96,7 +96,7 @@
 }
 
 .prose a {
-  @apply break-words hover:text-blue-400 ;
+  @apply break-words underline-offset-4 hover:text-blue-400 ;
 }  
 
 
