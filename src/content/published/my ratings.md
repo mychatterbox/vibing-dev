@@ -1,14 +1,14 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-02-18
+pubDate: 2024-03-08
 slug: my-ratings
 featured: false
 draft: false
 tags:
   - tmdb
 ogImage: '""'
-description: 영화, TV 별점 테스트
+description: 영화, TV 별점 리스트
 ---
 
 ![100](../../assets/images/10.png)
