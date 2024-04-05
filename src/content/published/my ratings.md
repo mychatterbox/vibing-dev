@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-03-08
+pubDate: 2024-04-05
 slug: my-ratings
 featured: false
 draft: false
