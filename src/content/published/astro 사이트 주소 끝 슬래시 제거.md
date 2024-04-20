@@ -7,11 +7,12 @@ slug: trailingSlash-remove
 featured: false
 draft: false
 tags:
-    - astro
+  - astro
 ogImage: ""
 description: cloudflare 로 배포한 astro 사이트 주소 끝 슬래시 제거하기
 keywords:
-    - trailingSlash
+  - trailingSlash
+  - cloudflare trailingSlash
 ---
 
 cloudflare 로 배포하는 astro 사이트의 주소 끝 슬래시 제거가 잘 안되나요?  
