@@ -56,3 +56,4 @@ Beelink 제품은 5.5mm x 2.5mm 입니다.
 검색을 해보면 5.5mm 는 공통이고 2.5mm 인지 2.1mm 인지가 명확하지 않은데, 2.5mm 와 2.1mm 는 호환이 되기도 하고 안되기도 하는 것 같습니다.
 
 ![케이블](../../assets/blog-images/2024/minipc-pdcharger_4.png)
+![젠더](../../assets/blog-images/2024/minipc-pdcharger_5.png)
