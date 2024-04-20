@@ -71,30 +71,7 @@ const draft = entry.slug.startsWith("draft/");
         <Content />
       </Prose>
     </article>
-    <div
-      class="mx-auto flex max-w-prose flex-row flex-wrap items-center justify-between gap-4 pt-8 sm:justify-center sm:pt-16"
-    >
-      <a class="inline-flex items-center font-medium underline" href="/">
-        <HomeIcon class="mr-1 h-5 w-5" />
-        <span>Home</span>
-      </a>
-      <a
-        class="inline-flex items-center font-medium underline"
-        href={`mailto:mychatterbox@gmail.com?subject=${encodeURIComponent(
-          `Feedback ${Astro.url.pathname}`,
-        )}`}
-      >
-        <ReplyIcon class="mr-1 h-5 w-5" />
-        <span>Reply</span>
-      </a>
-      <a
-        class="inline-flex items-center font-medium underline"
-        href="https://github.com/mrmcc3/vibing-dev/discussions"
-      >
-        <FeedbackIcon class="mr-1 h-5 w-5" />
-        <span>Feedback</span>
-      </a>
-    </div>
+
     
   </main>
 </Html>
