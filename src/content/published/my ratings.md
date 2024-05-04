@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-04-20
+pubDate: 2024-05-03
 slug: my-ratings
 featured: false
 draft: false
@@ -561,6 +561,10 @@ description: 영화, TV 별점 리스트
 [사막의 왕 (2022)](https://www.themoviedb.org/tv/202908 "사막의 왕 (2022)")  
 [Incastrati (2022)](https://www.themoviedb.org/tv/154535 "Incastrati (2022)")  
 ![100](../../assets/images/7.png)
+[8인의 용의자들 (2024)](https://www.themoviedb.org/movie/869718 "8인의 용의자들 (2024)")  
+[Time Addicts (2023)](https://www.themoviedb.org/movie/1020094 "Time Addicts (2023)")  
+[파묘 (2024)](https://www.themoviedb.org/movie/838209 "파묘 (2024)")  
+[Baby Reindeer (2024)](https://www.themoviedb.org/tv/241259 "Baby Reindeer (2024)")  
 [Late Night with the Devil (2023)](https://www.themoviedb.org/movie/938614 "Late Night with the Devil (2023)")  
 [Soft & Quiet (2022)](https://www.themoviedb.org/movie/934131 "Soft & Quiet (2022)")  
 [(Killers of the Flower Moon (2023)](https://www.themoviedb.org/movie/466420 "(Killers of the Flower Moon (2023)")  
@@ -1107,6 +1111,8 @@ description: 영화, TV 별점 리스트
 [From (2022)](https://www.themoviedb.org/tv/124364 "From (2022)")  
 [尘封十三载 (2023)](https://www.themoviedb.org/tv/211927 "尘封十三载 (2023)")  
 ![100](../../assets/images/6.png)
+[ARCADIAN (2024)](https://www.themoviedb.org/movie/1051896 "ARCADIAN (2024)")  
+[시티헌터 (2024)](https://www.themoviedb.org/movie/1061990 "시티헌터 (2024)")  
 [Problemista (2023)](https://www.themoviedb.org/movie/852247 "Problemista (2023)")  
 [Klaus & Barroso (2024)](https://www.themoviedb.org/movie/1231550 "Klaus & Barroso (2024)")  
 [당신이 잠든 사이 (2023)](https://www.themoviedb.org/movie/861047 "당신이 잠든 사이 (2023)")  
@@ -1793,6 +1799,15 @@ description: 영화, TV 별점 리스트
 [Trại Hoa Đỏ (2022)](https://www.themoviedb.org/tv/205403 "Trại Hoa Đỏ (2022)")  
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
+[New Life (2024)](https://www.themoviedb.org/movie/1148027 "New Life (2024)")  
+[From Within (2008)](https://www.themoviedb.org/movie/16167 "From Within (2008)")  
+[Siksa Neraka (2023)](https://www.themoviedb.org/movie/1058063 "Siksa Neraka (2023)")  
+[Infested (2023)](https://www.themoviedb.org/movie/1063879 "Infested (2023)")  
+[Cryo (2022)](https://www.themoviedb.org/movie/953542 "Cryo (2022)")  
+[Blackout (2023)](https://www.themoviedb.org/movie/1042623 "Blackout (2023)")  
+[A Tribe Called Judah (2023)](https://www.themoviedb.org/movie/1206988 "A Tribe Called Judah (2023)")  
+[Yannick (2023)](https://www.themoviedb.org/movie/1110358 "Yannick (2023)")  
+[Stöld (2024)](https://www.themoviedb.org/movie/1019317 "Stöld (2024)")  
 [As Above, So Below (2014)](https://www.themoviedb.org/movie/256274 "As Above, So Below (2014)")  
 [Immaculate (2024)](https://www.themoviedb.org/movie/1041613 "Immaculate (2024)")  
 [Little Wing (2024)](https://www.themoviedb.org/movie/1170000 "Little Wing (2024)")  
@@ -2439,6 +2454,8 @@ description: 영화, TV 별점 리스트
 [Cidade Invisível (2021)](https://www.themoviedb.org/tv/110529 "Cidade Invisível (2021)")  
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
+[검치호 (2024)](https://www.themoviedb.org/movie/987536 "검치호 (2024)")  
+[Rites of Spring (2011)](https://www.themoviedb.org/movie/92397 "Rites of Spring (2011)")  
 [All You Need Is Death (2024)](https://www.themoviedb.org/movie/1116984 "All You Need Is Death (2024)")  
 [씬 (2024)](https://www.themoviedb.org/movie/1169340 "씬 (2024)")  
 [Monster Mash (2024)](https://www.themoviedb.org/movie/1265647 "Monster Mash (2024)")  
