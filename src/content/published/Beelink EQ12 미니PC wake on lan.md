@@ -11,11 +11,12 @@ tags:
 ogImage: https://store-images.s-microsoft.com/image/apps.38151.9007199266299523.55ceb06f-4886-4af8-877c-a6f01bcf09f2.40ac1dd2-a136-4411-9566-f653ad4b266c
 description: Beelink의 n100 미니PC 중 EQ12 모델의 wake on lan 내용과 WOL 프로그램을 하나 추천합니다.
 keywords:
+  - EQ12
+  - n100
   - wake on lan
   - WOL
   - 미니PC
-  - n100
-  - EQ12
+  - beelink wol
 ---
 ![eq12](../../assets/blog-images/2024/eq12-wol_1.png)
 
