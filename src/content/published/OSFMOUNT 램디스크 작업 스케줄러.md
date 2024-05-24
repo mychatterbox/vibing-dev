@@ -17,8 +17,8 @@ keywords:
   - OSFMOUNT 설정
 ---
 
-램이 아주 여유롭지 않으면 dynamic 방식이 가능한 [Imdisk](https://sourceforge.net/projects/imdisk-toolkit/) 램디스크가 더 편리하고 간편하지만 개인적인 이유로 OSFMount 로 변경했습니다.  
-간단하게 사용할 경우 Imdisk 가 훨씬 좋은 선택일 수 있습니다.
+램이 아주 여유롭지 않으면 dynamic 방식이 가능한 [Imdisk](https://sourceforge.net/projects/imdisk-toolkit/) 램디스크가 더 편리하고 간편하지만 개인적인 이유로 OSFMOUNT 로 변경했습니다.  
+간단하게 사용할 경우 Imdisk 가 훨씬 좋은 선택일 수 있습니다. 
 
 윈도우 시작 시 자동으로 OSFMOUNT 램디스크를 생성하고 몇 개의 폴더를 만드는 방법을 설명합니다.
 
