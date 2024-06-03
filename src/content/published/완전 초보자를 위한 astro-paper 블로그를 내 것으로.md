@@ -16,6 +16,7 @@ keywords:
   - astropaper
   - astropaper 블로그
   - astro 블로그
+kind: article
 ---
 
 ### 나도 흔한 블로그 말고 다른 블로그 좀... 뭐 그런 생각?
