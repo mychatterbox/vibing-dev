@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-05-24
+pubDate: 2024-06-02
 slug: my-ratings
 featured: false
 draft: false
@@ -148,6 +148,7 @@ description: 영화, TV 별점 리스트
 [隐秘的角落 (2020)](https://www.themoviedb.org/tv/104960 "隐秘的角落 (2020)")  
 [돼지의 왕 (2022)](https://www.themoviedb.org/tv/154523 "돼지의 왕 (2022)")  
 ![100](../../assets/images/8.png)
+[포가튼 러브 (Znachor)](https://www.themoviedb.org/movie/1081676 "포가튼 러브 (Znachor)")  
 [Jules (2023)](https://www.themoviedb.org/movie/1072371 "Jules (2023)")  
 [Hundreds of Beavers (2024)](https://www.themoviedb.org/movie/1019939 "Hundreds of Beavers (2024)")  
 [The Old Oak (2023)](https://www.themoviedb.org/movie/970348 "The Old Oak (2023)")  
@@ -1116,6 +1117,7 @@ description: 영화, TV 별점 리스트
 [From (2022)](https://www.themoviedb.org/tv/124364 "From (2022)")  
 [尘封十三载 (2023)](https://www.themoviedb.org/tv/211927 "尘封十三载 (2023)")  
 ![100](../../assets/images/6.png)
+[아다지오 (Adagio) (2023)](https://www.themoviedb.org/movie/1021803 "아다지오 (Adagio) (2023)")  
 [Who's Yer Father? (2023)](https://www.themoviedb.org/movie/1163402 "Who's Yer Father? (2023)")  
 [Домаќинство за почетници (2023)](https://www.themoviedb.org/movie/1081593 "Домаќинство за почетници (2023)")  
 [블랙버드 블랙버드 블랙베리 (2023)](https://www.themoviedb.org/movie/1114866 "블랙버드 블랙버드 블랙베리 (2023)")  
@@ -1814,6 +1816,7 @@ description: 영화, TV 별점 리스트
 [Trại Hoa Đỏ (2022)](https://www.themoviedb.org/tv/205403 "Trại Hoa Đỏ (2022)")  
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
+[What You Wish For (2023)](https://www.themoviedb.org/movie/1126934 "What You Wish For (2023)")  
 [The First Omen (2024)](https://www.themoviedb.org/movie/437342 "The First Omen (2024)")  
 [Warchief (2024)](https://www.themoviedb.org/movie/1067341 "Warchief (2024)")  
 [스팅 (Sting) (2023)](https://www.themoviedb.org/movie/1087388 "스팅 (Sting) (2023)")  
@@ -2480,6 +2483,8 @@ description: 영화, TV 별점 리스트
 [Cidade Invisível (2021)](https://www.themoviedb.org/tv/110529 "Cidade Invisível (2021)")  
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
+[Motel Melati (2023)](https://www.themoviedb.org/movie/1084376 "Motel Melati (2023)")  
+[Cinderella's Revenge (2024)](https://www.themoviedb.org/movie/1140847 "Cinderella's Revenge (2024)")  
 [Trinil (2024)](https://www.themoviedb.org/movie/1214905 "Trinil (2024)")  
 [Deliverance 源生罪 (2022)](https://www.themoviedb.org/movie/991193 "Deliverance 源生罪 (2022)")  
 [Foil (2023)](https://www.themoviedb.org/movie/1101049 "Foil (2023)")  
