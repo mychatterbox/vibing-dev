@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-06-02
+pubDate: 2024-06-04
 slug: my-ratings
 featured: false
 draft: false
@@ -148,6 +148,7 @@ description: 영화, TV 별점 리스트
 [隐秘的角落 (2020)](https://www.themoviedb.org/tv/104960 "隐秘的角落 (2020)")  
 [돼지의 왕 (2022)](https://www.themoviedb.org/tv/154523 "돼지의 왕 (2022)")  
 ![100](../../assets/images/8.png)
+[1670 (2023)](https://www.themoviedb.org/tv/236450 "1670 (2023)")  
 [포가튼 러브 (Znachor)](https://www.themoviedb.org/movie/1081676 "포가튼 러브 (Znachor)")  
 [Jules (2023)](https://www.themoviedb.org/movie/1072371 "Jules (2023)")  
 [Hundreds of Beavers (2024)](https://www.themoviedb.org/movie/1019939 "Hundreds of Beavers (2024)")  
