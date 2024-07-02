@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-06-22
+pubDate: 2024-06-29
 slug: my-ratings
 featured: false
 draft: false
@@ -32,6 +32,7 @@ description: 영화, TV 별점 리스트
 [미스터 션샤인 (2018)](https://www.themoviedb.org/tv/75820 "미스터 션샤인 (2018)")  
 [오징어 게임 (2021)](https://www.themoviedb.org/tv/93405 "오징어 게임 (2021)")  
 ![100](../../assets/images/9.png)
+[애봇 초등학교 (Abbott Elementary) (2021)](https://www.themoviedb.org/tv/125935 "애봇 초등학교 (Abbott Elementary) (2021)")  
 [A Clockwork Orange (1971)](https://www.themoviedb.org/movie/185 "A Clockwork Orange (1971)")  
 [괴물 (2006)](https://www.themoviedb.org/movie/1255 "괴물 (2006)")  
 [3 Idiots (2009)](https://www.themoviedb.org/movie/20453 "3 Idiots (2009)")  
@@ -148,6 +149,8 @@ description: 영화, TV 별점 리스트
 [隐秘的角落 (2020)](https://www.themoviedb.org/tv/104960 "隐秘的角落 (2020)")  
 [돼지의 왕 (2022)](https://www.themoviedb.org/tv/154523 "돼지의 왕 (2022)")  
 ![100](../../assets/images/8.png)
+
+[아메리칸 픽션 (American Fiction)](https://www.themoviedb.org/movie/1056360 "아메리칸 픽션 (American Fiction)")  
 [1670 (2023)](https://www.themoviedb.org/tv/236450 "1670 (2023)")  
 [포가튼 러브 (Znachor) (2023)](https://www.themoviedb.org/movie/1081676 "포가튼 러브 (Znachor) (2023)")  
 [Jules (2023)](https://www.themoviedb.org/movie/1072371 "Jules (2023)")  
@@ -564,6 +567,8 @@ description: 영화, TV 별점 리스트
 [사막의 왕 (2022)](https://www.themoviedb.org/tv/202908 "사막의 왕 (2022)")  
 [Incastrati (2022)](https://www.themoviedb.org/tv/154535 "Incastrati (2022)")  
 ![100](../../assets/images/7.png)
+[우리, 집 (2024)](https://www.themoviedb.org/tv/218632 "우리, 집 (2024)")  
+[데블스 배스 (Des Teufels Bad) (2024)](https://www.themoviedb.org/movie/931944 "데블스 배스 (Des Teufels Bad) (2024)")  
 [Katalin Varga (2009)](https://www.themoviedb.org/movie/34208 "Katalin Varga (2009)")  
 [Un asunto privado (2022)](https://www.themoviedb.org/tv/112321 "Un asunto privado (2022)")  
 [The Little Girl Who Was Too Fond of Matches (2017)](https://www.themoviedb.org/movie/472964 "The Little Girl Who Was Too Fond of Matches (2017)")  
@@ -579,7 +584,7 @@ description: 영화, TV 별점 리스트
 [Baby Reindeer (2024)](https://www.themoviedb.org/tv/241259 "Baby Reindeer (2024)")  
 [Late Night with the Devil (2023)](https://www.themoviedb.org/movie/938614 "Late Night with the Devil (2023)")  
 [Soft & Quiet (2022)](https://www.themoviedb.org/movie/934131 "Soft & Quiet (2022)")  
-[(Killers of the Flower Moon (2023)](https://www.themoviedb.org/movie/466420 "(Killers of the Flower Moon (2023)")  
+[Killers of the Flower Moon (2023)](https://www.themoviedb.org/movie/466420 "Killers of the Flower Moon (2023)")  
 [Lisa Frankenstein (2024)](https://www.themoviedb.org/movie/993784 "Lisa Frankenstein (2024)")  
 [A Good Person (2023)](https://www.themoviedb.org/movie/800787 "A Good Person (2023)")  
 [Desaparecer Por Completo (2024)](https://www.themoviedb.org/movie/671317 "Desaparecer Por Completo (2024)")  
@@ -1123,6 +1128,9 @@ description: 영화, TV 별점 리스트
 [From (2022)](https://www.themoviedb.org/tv/124364 "From (2022)")  
 [尘封十三载 (2023)](https://www.themoviedb.org/tv/211927 "尘封十三载 (2023)")  
 ![100](../../assets/images/6.png)
+[크래시 (2024)](https://www.themoviedb.org/tv/226102 "크래시 (2024)")  
+[더 워처스 (The Watchers) (2024)](https://www.themoviedb.org/movie/1086747 "더 워처스 (The Watchers) (2024)")  
+[오로라 (Aurora) (2011)](https://www.themoviedb.org/movie/81527 "오로라(Aurora) (2011)")  
 [언데드 다루는 법 (Håndtering av udøde) (2024)](https://www.themoviedb.org/movie/1020896 "언데드 다루는 법 (Håndtering av udøde) (2024)")  
 [Neighboring Sounds (2012)](https://www.themoviedb.org/movie/97989 "Neighboring Sounds (2012)")  
 [공포의 묘지 (Pet Sematary) (2024)](https://www.themoviedb.org/movie/8913 "공포의 묘지 (Pet Sematary) (2024)")  
@@ -1134,7 +1142,7 @@ description: 영화, TV 별점 리스트
 [Домаќинство за почетници (2023)](https://www.themoviedb.org/movie/1081593 "Домаќинство за почетници (2023)")  
 [블랙버드 블랙버드 블랙베리 (2023)](https://www.themoviedb.org/movie/1114866 "블랙버드 블랙버드 블랙베리 (2023)")  
 [Force of Nature: The Dry 2 (2024)](https://www.themoviedb.org/movie/832262 "Force of Nature: The Dry 2 (2024)")  
-[Pandemonium (2023)](https://www.themoviedb.org/movie/1148027 "Pandemonium (2023)")  
+[Pandemonium (2023)](https://www.themoviedb.org/movie/1080512 "Pandemonium (2023)")  
 [할리우드 살인사건 (Last Looks) (2021)](https://www.themoviedb.org/movie/557946 "할리우드 살인사건 (Last Looks) (2021)")  
 [지구 종말이 오더라도 너무 큰 기대는 말라 (2023)](https://www.themoviedb.org/movie/937085 "지구 종말이 오더라도 너무 큰 기대는 말라 (2023)")  
 [The Coffee Table (2023)](https://www.themoviedb.org/movie/1056380 "The Coffee Table (2023)")  
@@ -1828,6 +1836,8 @@ description: 영화, TV 별점 리스트
 [Trại Hoa Đỏ (2022)](https://www.themoviedb.org/tv/205403 "Trại Hoa Đỏ (2022)")  
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
+[다우렌의 결혼 (2024)](https://www.themoviedb.org/movie/1137097 "다우렌의 결혼 (2024)")  
+[체스트넛 (Chestnut) (2024)](https://www.themoviedb.org/movie/881517 "체스트넛 (Chestnut) (2024)")  
 [House of Fears (2007)](https://www.themoviedb.org/movie/45102 "House of Fears (2007)")  
 [트래커 (Tracker) (2024)](https://www.themoviedb.org/tv/211288 "트래커 (Tracker) (2024)")  
 [곰돌이 푸: 피와 꿀 2 (2024)](https://www.themoviedb.org/movie/1079485 "곰돌이 푸: 피와 꿀 2 (2024)")  
@@ -2505,6 +2515,11 @@ description: 영화, TV 별점 리스트
 [Cidade Invisível (2021)](https://www.themoviedb.org/tv/110529 "Cidade Invisível (2021)")  
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
+[Trim Season (2023)](https://www.themoviedb.org/movie/1094596 "Trim Season (2023)")  
+[Lost After Dark (2014)](https://www.themoviedb.org/movie/298865 "Lost After Dark (2014)")  
+[다우렌의 결혼 (2024)](https://www.themoviedb.org/movie/1214509 "In a Violent Nature (2024)")  
+[The Legend of Lake Hollow (2024)](https://www.themoviedb.org/movie/1251138 "The Legend of Lake Hollow (2024)")  
+[wake (2024)](https://www.themoviedb.org/movie/1269021 "wake (2024)")  
 [나이트 시프트 (Night Shift) (2023)](https://www.themoviedb.org/movie/829038 "나이트 시프트 (Night Shift) (2023)")  
 [The Finale (2023)](https://www.themoviedb.org/movie/1156141 "The Finale (2023)")  
 [An Angry Boy (2024)](https://www.themoviedb.org/movie/1184294 "An Angry Boy (2024)")  
@@ -2861,6 +2876,7 @@ description: 영화, TV 별점 리스트
 [連続殺人鬼カエル男 (2020)](https://www.themoviedb.org/tv/101643 "連続殺人鬼カエル男 (2020)")  
 [미남당 (2022)](https://www.themoviedb.org/tv/138663 "미남당 (2022)")  
 ![100](../../assets/images/3.png)
+[Cinderella's Curse (2024)](https://www.themoviedb.org/movie/1130053 "Cinderella's Curse (2024)")  
 [Silence of the Prey (2024)](https://www.themoviedb.org/movie/1148027 "Silence of the Prey (2024)")  
 [You Can't Run Forever (2024)](https://www.themoviedb.org/movie/974383 "You Can't Run Forever (2024)")  
 [The Graves (2010)](https://www.themoviedb.org/movie/34231 "The Graves (2010)")  
