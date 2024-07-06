@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-06-29
+pubDate: 2024-07-05
 slug: my-ratings
 featured: false
 draft: false
@@ -150,7 +150,7 @@ description: 영화, TV 별점 리스트
 [돼지의 왕 (2022)](https://www.themoviedb.org/tv/154523 "돼지의 왕 (2022)")  
 ![100](../../assets/images/8.png)
 
-[아메리칸 픽션 (American Fiction)](https://www.themoviedb.org/movie/1056360 "아메리칸 픽션 (American Fiction)")  
+[아메리칸 픽션 (American Fiction) (2023)](https://www.themoviedb.org/movie/1056360 "아메리칸 픽션 (American Fiction) (2023)")  
 [1670 (2023)](https://www.themoviedb.org/tv/236450 "1670 (2023)")  
 [포가튼 러브 (Znachor) (2023)](https://www.themoviedb.org/movie/1081676 "포가튼 러브 (Znachor) (2023)")  
 [Jules (2023)](https://www.themoviedb.org/movie/1072371 "Jules (2023)")  
@@ -241,7 +241,7 @@ description: 영화, TV 별점 리스트
 [Slumdog Millionaire (2008)](https://www.themoviedb.org/movie/12405 "Slumdog Millionaire (2008)")  
 [The Last Temptation of Christ (1988)](https://www.themoviedb.org/movie/11051 "The Last Temptation of Christ (1988)")  
 [The Thirteenth Floor (1999)](https://www.themoviedb.org/movie/1090 "The Thirteenth Floor (1999)")  
-[ཆང་ཧུབ་ཐེངས་གཅིག་གི་འཁྲུལ་སྣང (2003)](https://www.themoviedb.org/movie/37232 "ཆང་ཧུབ་ཐེངས་གཅིག་གི་འཁྲུལ་སྣང (2003)")  
+[Travellers and Magicians (ཆང་ཧུབ་ཐེངས་གཅིག་གི་འཁྲུལ་སྣང) (2003)](https://www.themoviedb.org/movie/37232 "Travellers and Magicians (ཆང་ཧུབ་ཐེངས་གཅིག་གི་འཁྲུལ་སྣང) (2003)")  
 [쓰리, 몬스터 (2004)](https://www.themoviedb.org/movie/33908 "쓰리, 몬스터 (2004)")  
 [卧虎藏龍 (2000)](https://www.themoviedb.org/movie/146 "卧虎藏龍 (2000)")  
 [Intacto (2001)](https://www.themoviedb.org/movie/10856 "Intacto (2001)")  
@@ -305,7 +305,7 @@ description: 영화, TV 별점 리스트
 [아홉살 인생 (2004)](https://www.themoviedb.org/movie/132165 "아홉살 인생 (2004)")  
 [파란대문 (1998)](https://www.themoviedb.org/movie/2777 "파란대문 (1998)")  
 [577 프로젝트 (2012)](https://www.themoviedb.org/movie/133595 "577 프로젝트 (2012)")  
-[Spring Blues (2009)](https://www.themoviedb.org/movie/415519 "Spring Blues (2009)")  
+[약수터 부르스 (2009)](https://www.themoviedb.org/movie/415519 "약수터 부르스 (2009)")  
 [聖☆おにいさん (2013)](https://www.themoviedb.org/movie/184608 "聖☆おにいさん (2013)")  
 [Saw (2004)](https://www.themoviedb.org/movie/176 "Saw (2004)")  
 [功夫 (2004)](https://www.themoviedb.org/movie/9470 "功夫 (2004)")  
@@ -1128,6 +1128,7 @@ description: 영화, TV 별점 리스트
 [From (2022)](https://www.themoviedb.org/tv/124364 "From (2022)")  
 [尘封十三载 (2023)](https://www.themoviedb.org/tv/211927 "尘封十三载 (2023)")  
 ![100](../../assets/images/6.png)
+[버닝 데이즈 (Kurak Günler) (2022)](https://www.themoviedb.org/movie/682152 "버닝 데이즈 (Kurak Günler) (2022)")  
 [크래시 (2024)](https://www.themoviedb.org/tv/226102 "크래시 (2024)")  
 [더 워처스 (The Watchers) (2024)](https://www.themoviedb.org/movie/1086747 "더 워처스 (The Watchers) (2024)")  
 [오로라 (Aurora) (2011)](https://www.themoviedb.org/movie/81527 "오로라(Aurora) (2011)")  
@@ -1836,6 +1837,9 @@ description: 영화, TV 별점 리스트
 [Trại Hoa Đỏ (2022)](https://www.themoviedb.org/tv/205403 "Trại Hoa Đỏ (2022)")  
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
+[The Devil's Lair (Pemukiman Setan) (2024)](https://www.themoviedb.org/movie/1148237 "The Devil's Lair (Pemukiman Setan) (2024)")  
+[설계자 (2024)](https://www.themoviedb.org/movie/865910 "설계자 (2024)")  
+[타로 (2024)](https://www.themoviedb.org/movie/1300157 "타로 (2024)")  
 [다우렌의 결혼 (2024)](https://www.themoviedb.org/movie/1137097 "다우렌의 결혼 (2024)")  
 [체스트넛 (Chestnut) (2024)](https://www.themoviedb.org/movie/881517 "체스트넛 (Chestnut) (2024)")  
 [House of Fears (2007)](https://www.themoviedb.org/movie/45102 "House of Fears (2007)")  
@@ -2515,6 +2519,8 @@ description: 영화, TV 별점 리스트
 [Cidade Invisível (2021)](https://www.themoviedb.org/tv/110529 "Cidade Invisível (2021)")  
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
+[크리쳐 빌로우 (The Creature Below) (2016)](https://www.themoviedb.org/movie/404830 "크리쳐 빌로우 (The Creature Below) (2016")  
+[Nyctophobia (2024)](https://www.themoviedb.org/movie/1242590 "Nyctophobia (2024)")  
 [Trim Season (2023)](https://www.themoviedb.org/movie/1094596 "Trim Season (2023)")  
 [Lost After Dark (2014)](https://www.themoviedb.org/movie/298865 "Lost After Dark (2014)")  
 [다우렌의 결혼 (2024)](https://www.themoviedb.org/movie/1214509 "In a Violent Nature (2024)")  
