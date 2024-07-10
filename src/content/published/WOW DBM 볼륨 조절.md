@@ -9,7 +9,7 @@ draft: false
 tags:
   - WOW
 ogImage: ""
-description: 바닥 피하세요! DBM 경고가 큰 소리로 디스코드를 통해 상대방에게 전달되어 부끄럽나요? DBM 경고, 알림, 목소리 크기를 조절해봅시다.
+description: 바닥 피하세요! DBM 경고가 큰 소리로 디스코드를 통해 상대방에게 전달되어 부끄럽나요? <br>DBM 경고, 알림, 목소리 크기를 조절해봅시다.
 keywords:
   - dbm 볼륨
   - dbm 소리크기
