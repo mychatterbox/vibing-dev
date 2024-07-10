@@ -11,7 +11,7 @@ pub.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
 <Html title="mychatterbox" description="이런 것도 팁이 되나 싶은 정보들">
   <Nav />
-  <main class="px-4 pb-12" transition:animate="fade" transition:name="main">
+  <main class="px-4 pb-12">
     <ul class="mx-auto max-w-screen-lg font-medium">
       {pub.map((entry) => <FeedItem entry={entry} />)}
     </ul>

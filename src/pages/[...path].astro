@@ -36,12 +36,15 @@ const draft = entry.slug.startsWith("draft/");
   robots={draft ? "noindex" : undefined}
 >
   <Nav />
-  <main class="flex-1 px-4 pb-12 sm:pb-24" transition:animate="fade" transition:name="main">
-    <article class="mx-auto max-w-screen-lg break-words font-medium">
-      <div class="mb-5 flex flex-col items-start">
-        <h1 class="text-2xl font-semibold leading-tight">
-          {title}
-        </h1>
+  <main class="flex-1 px-4 pb-12 sm:pb-24">
+    <article class="mx-auto max-w-screen-lg break-words font-medium" >
+      <div class="mb-5 flex flex-col items-start" >
+        <h1 
+        class="text-2xl font-semibold leading-tight"
+        transition:name={`title-${entry.slug}`}
+      >
+        {title}
+      </h1>  
         <div class="flex items-center space-x-1 pl-1">
           <div class="text-sm text-zinc-600 dark:text-zinc-400">
             {

@@ -21,7 +21,12 @@ const draft = entry.slug.startsWith("draft/");
       class="text-2xl font-semibold leading-tight decoration-zinc-900 decoration-2 underline-offset-2 hover:underline dark:decoration-white"
       href={`/${slug}`}
     >
-      {title}
+      <h2 
+      class="text-2xl font-semibold leading-tight"
+      transition:name={`title-${entry.slug}`}
+    >
+      {entry.data.title}
+    </h2>
     </a>
     <div class="flex items-center space-x-1 pl-0.5">
       <div class="text-sm text-zinc-600 dark:text-zinc-400">
