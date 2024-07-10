@@ -54,10 +54,17 @@ const draft = entry.slug.startsWith("draft/");
   <Prose>
     {
       kind === "article" ? (
-        <p class="break-words">{description}</p>
+        <p class="break-words" set:html={description}></p>
       ) : kind === "note" ? (
         <Content />
       ) : null
     }
+    <!-- {
+      kind === "article" ? (
+        <p class="break-words">{description}</p>
+      ) : kind === "note" ? (
+        <Content />
+      ) : null
+    } -->
   </Prose>
 </li>
