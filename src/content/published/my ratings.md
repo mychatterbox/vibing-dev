@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-07-13
+pubDate: 2024-07-15
 slug: my-ratings
 featured: false
 draft: false
@@ -148,7 +148,9 @@ description: 영화, TV 별점 리스트
 [나쁜 아이들 (隐秘的角落) (2020)](https://www.themoviedb.org/tv/104960 "隐秘的角落 (2020)")  
 [돼지의 왕 (2022)](https://www.themoviedb.org/tv/154523 "돼지의 왕 (2022)")  
 ![100](../../assets/images/8.png)
-
+[구에로스 (Güeros) (2014)](https://www.themoviedb.org/movie/256057 "구에로스 (Güeros) (2014)")  
+[악마의 씨 (Rosemary's Baby) (1968)](https://www.themoviedb.org/movie/805 "악마의 씨 (Rosemary's Baby) (1968)")  
+[Chemical Wedding (2008)](https://www.themoviedb.org/movie/14814 "Chemical Wedding (2008)")  
 [아메리칸 픽션 (American Fiction) (2023)](https://www.themoviedb.org/movie/1056360 "아메리칸 픽션 (American Fiction) (2023)")  
 [1670 (2023)](https://www.themoviedb.org/tv/236450 "1670 (2023)")  
 [포가튼 러브 (Znachor) (2023)](https://www.themoviedb.org/movie/1081676 "포가튼 러브 (Znachor) (2023)")  
@@ -566,6 +568,8 @@ description: 영화, TV 별점 리스트
 [사막의 왕 (2022)](https://www.themoviedb.org/tv/202908 "사막의 왕 (2022)")  
 [이건 누명이야! 시칠리아 살인 미스터리 (Incastrati) (2022)](https://www.themoviedb.org/tv/154535 "Incastrati (2022)")  
 ![100](../../assets/images/7.png)
+
+[Night of the Comet (1984)](https://www.themoviedb.org/movie/18462 "Night of the Comet (1984)")  
 [티처스 라운지 (Das Lehrerzimmer) (2023)](https://www.themoviedb.org/movie/998022 "티처스 라운지 (Das Lehrerzimmer) (2023)")  
 [Aarambham (ఆరంభం) (2024)](https://www.themoviedb.org/movie/1288304 "Aarambham (ఆరంభం) (2024)")  
 [우리, 집 (2024)](https://www.themoviedb.org/tv/218632 "우리, 집 (2024)")  
@@ -1129,6 +1133,7 @@ description: 영화, TV 별점 리스트
 [From (2022)](https://www.themoviedb.org/tv/124364 "From (2022)")  
 [尘封十三载 (2023)](https://www.themoviedb.org/tv/211927 "尘封十三载 (2023)")  
 ![100](../../assets/images/6.png)
+[사조영웅전 (2024)](https://www.themoviedb.org/tv/235351 "사조영웅전 (2024)")  
 [The Blackcoat's Daughter (2017)](https://www.themoviedb.org/movie/334536 "The Blackcoat's Daughter (2017)")  
 [그녀가 죽었다 (2024)](https://www.themoviedb.org/movie/743815 "그녀가 죽었다 (2024)")  
 [Nix (2022)](https://www.themoviedb.org/movie/844380 "Nix (2022)")  
@@ -1843,6 +1848,7 @@ description: 영화, TV 별점 리스트
 [Trại Hoa Đỏ (2022)](https://www.themoviedb.org/tv/205403 "Trại Hoa Đỏ (2022)")  
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
+[The Blue Rose (2024)](https://www.themoviedb.org/movie/863406 "The Blue Rose (2024)")  
 [드라이브 (2024)](https://www.themoviedb.org/movie/838206 "드라이브 (2024)")  
 [The Inheritance (2024)](https://www.themoviedb.org/movie/821499 "The Inheritance (2024)")  
 [리브 더 월드 비하인드 (Leave the World Behind) (2023)](https://www.themoviedb.org/movie/726209 "리브 더 월드 비하인드 (Leave the World Behind) (2023)")  
@@ -2535,6 +2541,8 @@ description: 영화, TV 별점 리스트
 [Cidade Invisível (2021)](https://www.themoviedb.org/tv/110529 "Cidade Invisível (2021)")  
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
+[Deadbolt (2024)](https://www.themoviedb.org/movie/1270687 "Deadbolt (2024)")  
+[Method (2024)](https://www.themoviedb.org/movie/43998 "Method (2024)")  
 [Grieve (2023)](https://www.themoviedb.org/movie/955353 "Grieve (2023)")  
 [A Song from the Dark (2023)](https://www.themoviedb.org/movie/1027465 "A Song from the Dark (2023)")  
 [Septic Man (2013)](https://www.themoviedb.org/movie/221444 "Septic Man (2013)")  
