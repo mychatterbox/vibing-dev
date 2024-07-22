@@ -38,14 +38,14 @@ robocopy %_s% %_d2% %_opt% /log:c:\robocopy\_music-CE-%date%.log /NFL /NDL
 Exit
 ```
 
-SET _s="c:\music"  
+`SET _s="c:\music"`  
 원본 폴더나 파일을 지정합니다.  
 
-SET _d1="d:\music"  
-SET _d2="\\\MINI-pc\e\music"  
+`SET _d1="d:\music"`  
+`SET _d2="\\\MINI-pc\e\music"`  
 대상 폴더나 파일을 지정합니다. 여기에 백업됩니다.
 
-SET _opt=/mir  /r:2
+`SET _opt=/mir  /r:2`  
 옵션은 mir 방식으로 할건데, 원본 폴더와 똑같이 만들겠다는 의미입니다.  
 그래서 주의할 점은 원본 폴더에서 파일을 삭제하면 대상 폴더에서도 파일을 삭제합니다.  
 /r:2 옵션은 오류일 경우 재시도 횟수입니다. 지정하지 않으면 기본옵션으로 백만번 재시도 합니다.
