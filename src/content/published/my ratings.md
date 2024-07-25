@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-07-15
+pubDate: 2024-07-25
 slug: my-ratings
 featured: false
 draft: false
@@ -148,6 +148,7 @@ description: 영화, TV 별점 리스트
 [나쁜 아이들 (隐秘的角落) (2020)](https://www.themoviedb.org/tv/104960 "隐秘的角落 (2020)")  
 [돼지의 왕 (2022)](https://www.themoviedb.org/tv/154523 "돼지의 왕 (2022)")  
 ![100](../../assets/images/8.png)
+[키메라 (La chimera) (2023)](https://www.themoviedb.org/movie/837335 "키메라 (La chimera) (2023)")  
 [구에로스 (Güeros) (2014)](https://www.themoviedb.org/movie/256057 "구에로스 (Güeros) (2014)")  
 [악마의 씨 (Rosemary's Baby) (1968)](https://www.themoviedb.org/movie/805 "악마의 씨 (Rosemary's Baby) (1968)")  
 [Chemical Wedding (2008)](https://www.themoviedb.org/movie/14814 "Chemical Wedding (2008)")  
@@ -568,7 +569,9 @@ description: 영화, TV 별점 리스트
 [사막의 왕 (2022)](https://www.themoviedb.org/tv/202908 "사막의 왕 (2022)")  
 [이건 누명이야! 시칠리아 살인 미스터리 (Incastrati) (2022)](https://www.themoviedb.org/tv/154535 "Incastrati (2022)")  
 ![100](../../assets/images/7.png)
-
+[코너 오피스 (Corner Office) (2023)](https://www.themoviedb.org/movie/800279 "코너 오피스 (Corner Office) (2023)")  
+[Thelma (2024)](https://www.themoviedb.org/movie/1051891 "Thelma (2024)")  
+[카브리올레 (2024)](https://www.themoviedb.org/movie/987462 "카브리올레 (2024)")  
 [Night of the Comet (1984)](https://www.themoviedb.org/movie/18462 "Night of the Comet (1984)")  
 [티처스 라운지 (Das Lehrerzimmer) (2023)](https://www.themoviedb.org/movie/998022 "티처스 라운지 (Das Lehrerzimmer) (2023)")  
 [Aarambham (ఆరంభం) (2024)](https://www.themoviedb.org/movie/1288304 "Aarambham (ఆరంభం) (2024)")  
@@ -1133,6 +1136,13 @@ description: 영화, TV 별점 리스트
 [From (2022)](https://www.themoviedb.org/tv/124364 "From (2022)")  
 [尘封十三载 (2023)](https://www.themoviedb.org/tv/211927 "尘封十三载 (2023)")  
 ![100](../../assets/images/6.png)
+[용문금검 (1969)](https://www.themoviedb.org/movie/115652 "The Golden Sword (1969)")  
+[Aberrance (2022)](https://www.themoviedb.org/movie/1020830 "Aberrance (2022)")  
+[하우스 오브 스네일스 (La casa del caracol) (2021)](https://www.themoviedb.org/movie/772148 "La casa del caracol (2021)")  
+[The King Tide (2023)](https://www.themoviedb.org/movie/1159477 "The King Tide (2023)")  
+[Sometimes I Think About Dying (2024)](https://www.themoviedb.org/movie/891933 "Sometimes I Think About Dying (2024)")  
+[Lowlifes (2024)](https://www.themoviedb.org/movie/1272890 "Lowlifes (2024)")  
+[블러드 글래셔: 알프스의 살인빙하 (2013)](https://www.themoviedb.org/movie/210913 "블러드 글래셔: 알프스의 살인빙하 (2013)")  
 [사조영웅전 (2024)](https://www.themoviedb.org/tv/235351 "사조영웅전 (2024)")  
 [The Blackcoat's Daughter (2017)](https://www.themoviedb.org/movie/334536 "The Blackcoat's Daughter (2017)")  
 [그녀가 죽었다 (2024)](https://www.themoviedb.org/movie/743815 "그녀가 죽었다 (2024)")  
@@ -1848,6 +1858,10 @@ description: 영화, TV 별점 리스트
 [Trại Hoa Đỏ (2022)](https://www.themoviedb.org/tv/205403 "Trại Hoa Đỏ (2022)")  
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
+[이매지너리 (Imaginary) (2024)](https://www.themoviedb.org/movie/1125311 "이매지너리 (Imaginary) (2024)")  
+[From Darkness (2024)](https://www.themoviedb.org/movie/1202863 "From Darkness (2024)")  
+[Soul Mates (2023)](https://www.themoviedb.org/movie/1180879 "Soul Mates (2023)")  
+[Slay (2024)](https://www.themoviedb.org/movie/1258745 "Slay (2024)")  
 [The Blue Rose (2024)](https://www.themoviedb.org/movie/863406 "The Blue Rose (2024)")  
 [드라이브 (2024)](https://www.themoviedb.org/movie/838206 "드라이브 (2024)")  
 [The Inheritance (2024)](https://www.themoviedb.org/movie/821499 "The Inheritance (2024)")  
@@ -2541,6 +2555,16 @@ description: 영화, TV 별점 리스트
 [Cidade Invisível (2021)](https://www.themoviedb.org/tv/110529 "Cidade Invisível (2021)")  
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
+[고스트 타운 (Northspur) (2021)](https://www.themoviedb.org/movie/842353 "고스트 타운 (Northspur) (2021)")  
+[The Area 51 Incident (2022)](https://www.themoviedb.org/movie/1006437 "The Area 51 Incident (2022)")  
+[Hellhounds (2024)](https://www.themoviedb.org/movie/1218245 "Hellhounds (2024)")  
+[The Caregiver (2024)](https://www.themoviedb.org/movie/1064909 "The Caregiver (2024)")  
+[B4 (2012)](https://www.themoviedb.org/movie/401064 "B4 (2012)")  
+[Dead Whisper (2024)](https://www.themoviedb.org/movie/1261352 "Dead Whisper (2024)")  
+[Pollen (2023)](https://www.themoviedb.org/movie/1126637 "Pollen (2023)")  
+[The 13th Floor (1988)](https://www.themoviedb.org/movie/128896 "The 13th Floor (1988)")  
+[Brightwood (2022)](https://www.themoviedb.org/movie/1012706 "Brightwood (2022)")  
+[The Train of Death (Kereta Berdarah) (2024)](https://www.themoviedb.org/movie/1128936 "The Train of Death (Kereta Berdarah) (2024)")  
 [Deadbolt (2024)](https://www.themoviedb.org/movie/1270687 "Deadbolt (2024)")  
 [Method (2024)](https://www.themoviedb.org/movie/43998 "Method (2024)")  
 [Grieve (2023)](https://www.themoviedb.org/movie/955353 "Grieve (2023)")  
@@ -2913,6 +2937,7 @@ description: 영화, TV 별점 리스트
 [連続殺人鬼カエル男 (2020)](https://www.themoviedb.org/tv/101643 "連続殺人鬼カエル男 (2020)")  
 [미남당 (2022)](https://www.themoviedb.org/tv/138663 "미남당 (2022)")  
 ![100](../../assets/images/3.png)
+
 [Abbey Grace (2016)](https://www.themoviedb.org/movie/419371 "Abbey Grace (2016)")  
 [스노우 폴스 (Snow Falls) (2023)](https://www.themoviedb.org/movie/737853 "스노우 폴스 (Snow Falls) (2023)")  
 [Lion-Girl (唐獅子仮面) (2024)](https://www.themoviedb.org/movie/1064802 "Lion-Girl (唐獅子仮面) (2024)")  
