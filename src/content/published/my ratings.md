@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-07-25
+pubDate: 2024-07-28
 slug: my-ratings
 featured: false
 draft: false
@@ -1136,6 +1136,8 @@ description: 영화, TV 별점 리스트
 [From (2022)](https://www.themoviedb.org/tv/124364 "From (2022)")  
 [尘封十三载 (2023)](https://www.themoviedb.org/tv/211927 "尘封十三载 (2023)")  
 ![100](../../assets/images/6.png)
+[웨이크 우드 (Wake Wood) (2011)](https://www.themoviedb.org/movie/59726 "웨이크 우드 (Wake Wood) (2011)")  
+[나이트 하우스 (The Night House) (2021)](https://www.themoviedb.org/movie/547565 "나이트 하우스 (The Night House) (2021)")  
 [용문금검 (1969)](https://www.themoviedb.org/movie/115652 "The Golden Sword (1969)")  
 [Aberrance (2022)](https://www.themoviedb.org/movie/1020830 "Aberrance (2022)")  
 [하우스 오브 스네일스 (La casa del caracol) (2021)](https://www.themoviedb.org/movie/772148 "La casa del caracol (2021)")  
@@ -1858,6 +1860,8 @@ description: 영화, TV 별점 리스트
 [Trại Hoa Đỏ (2022)](https://www.themoviedb.org/tv/205403 "Trại Hoa Đỏ (2022)")  
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
+[Starve Acre (2023)](https://www.themoviedb.org/movie/933090 "Starve Acre (2023)")  
+[Savi (2024)](https://www.themoviedb.org/movie/1297717 "Savi (2024)")  
 [이매지너리 (Imaginary) (2024)](https://www.themoviedb.org/movie/1125311 "이매지너리 (Imaginary) (2024)")  
 [From Darkness (2024)](https://www.themoviedb.org/movie/1202863 "From Darkness (2024)")  
 [Soul Mates (2023)](https://www.themoviedb.org/movie/1180879 "Soul Mates (2023)")  
@@ -2555,6 +2559,9 @@ description: 영화, TV 별점 리스트
 [Cidade Invisível (2021)](https://www.themoviedb.org/tv/110529 "Cidade Invisível (2021)")  
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
+[10/31 (2017)](https://www.themoviedb.org/movie/483068 "10/31 (2017)")  
+[Visher (2024)](https://www.themoviedb.org/movie/1270762 "Visher (2024)")  
+[Human Animals (2020)](https://www.themoviedb.org/movie/676839 "Human Animals (2020)")  
 [고스트 타운 (Northspur) (2021)](https://www.themoviedb.org/movie/842353 "고스트 타운 (Northspur) (2021)")  
 [The Area 51 Incident (2022)](https://www.themoviedb.org/movie/1006437 "The Area 51 Incident (2022)")  
 [Hellhounds (2024)](https://www.themoviedb.org/movie/1218245 "Hellhounds (2024)")  
