@@ -11,8 +11,9 @@ tags:
 ogImage: https://chatter.kr/_astro/minipc-pdcharger_1.C8dzafaV_k7tys.webp
 description: N100 등 미니PC 를 일반 PD 충전기로 사용할 때 주의할 점과 팁을 알아봅시다.
 keywords:
-  - 미니pc 충전기
   - n100 충전기
+  - 미니pc 충전기
+  - 미니pc pd충전기
 ---
 
 알리에서 흔히 볼 수 있는 여러 충전기들 중 하나입니다. 약 2만원.  
