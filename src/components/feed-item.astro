@@ -9,7 +9,8 @@ interface Props {
 const { entry } = Astro.props;
 const {
   slug,
-  data: { title, description, pubDate, kind, tags },
+  data: { title, description, pubDate, kind },
+  // data: { title, description, pubDate, kind, tags },
 } = entry;
 const { Content } = await entry.render();
 const draft = entry.slug.startsWith("draft/");
