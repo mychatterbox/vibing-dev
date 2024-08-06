@@ -36,7 +36,7 @@ Beelink 미니pc 모델들이 wol 기능이 되는지 검색해보면 의외로 
 [Wake On Lan](https://apps.microsoft.com/detail/9wzdncrdfshb?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US) 
 ![WOL](../../assets/blog-images/2024/eq12-wol_2.png)
  
-디자인은 위와 같고 용량은 약 0.3MB.  윈도우용입니다.  
+디자인은 위와 같고 용량은 약 0.8MB.  윈도우용입니다.  
 2012년에 발표된 프로그램인데 디자인이 아주 현대적이고 심플합니다. 좀 놀랍네요.
 
 공유기 설정에서 미니PC의 MAC 주소만 확인 후에 정보 입력하고 Wake !  클릭하니 WOL 기능이 잘 작동합니다.
