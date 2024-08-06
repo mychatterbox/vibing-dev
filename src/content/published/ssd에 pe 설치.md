@@ -10,9 +10,9 @@ tags:
 ogImage: ""
 description: D 드라이브에 PE를 설치하고, UEFI 부팅메뉴에 추가하는 방법을 설명합니다.
 keywords:
-  - ssd에 PE 설치
-  - uefi 메뉴에 pe 추가
   - PE 멀티부팅
+  - uefi 메뉴에 pe 추가
+  - ssd에 pe 설치
 kind: article
 ---
 
@@ -50,4 +50,4 @@ sources 폴더에 boot.wim 파일이 있는지 확인합니다.
 ASROCK 보드일 경우 F11 키입니다.
 6. 오류가 난다면 처음부터 `꼼꼼하게` 다시 확인합니다.  
 특히 UEFI 항목, 경로/오타를 잘 확인해야 합니다.
-위 내용은 BCD 와 상관습니다.
+이 글은 UEFI 메뉴에 등록하는 것이므로 BCD와는 상관없습니다.
