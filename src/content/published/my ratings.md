@@ -1,7 +1,7 @@
 ---
 title: 영화, TV 별점
 author: mychatterbox
-pubDate: 2024-07-28
+pubDate: 2024-08-07
 slug: my-ratings
 featured: false
 draft: false
@@ -148,6 +148,7 @@ description: 영화, TV 별점 리스트
 [나쁜 아이들 (隐秘的角落) (2020)](https://www.themoviedb.org/tv/104960 "隐秘的角落 (2020)")  
 [돼지의 왕 (2022)](https://www.themoviedb.org/tv/154523 "돼지의 왕 (2022)")  
 ![100](../../assets/images/8.png)
+[데카메론 (The Decameron) (2024)](https://www.themoviedb.org/tv/250162 "데카메론 (The Decameron) (2024)")  
 [키메라 (La chimera) (2023)](https://www.themoviedb.org/movie/837335 "키메라 (La chimera) (2023)")  
 [구에로스 (Güeros) (2014)](https://www.themoviedb.org/movie/256057 "구에로스 (Güeros) (2014)")  
 [악마의 씨 (Rosemary's Baby) (1968)](https://www.themoviedb.org/movie/805 "악마의 씨 (Rosemary's Baby) (1968)")  
@@ -569,6 +570,11 @@ description: 영화, TV 별점 리스트
 [사막의 왕 (2022)](https://www.themoviedb.org/tv/202908 "사막의 왕 (2022)")  
 [이건 누명이야! 시칠리아 살인 미스터리 (Incastrati) (2022)](https://www.themoviedb.org/tv/154535 "Incastrati (2022)")  
 ![100](../../assets/images/7.png)
+[O-Bi, O-Ba: The End of Civilization (1985)](https://www.themoviedb.org/movie/71933 "O-Bi, O-Ba: The End of Civilization (1985)")  
+[The War of the Worlds: Next Century (1981)](https://www.themoviedb.org/movie/185354 "The War of the Worlds: Next Century (1981)")  
+[골렘 (Golem) (1980)](https://www.themoviedb.org/movie/107983 "골렘 (Golem) (1980)")  
+[데카메론 (The Decameron) (2024)](https://www.themoviedb.org/tv/250162 "데카메론 (The Decameron) (2024)")  
+[흡연하면 기침한다 (Fumer fait tousser) (2023)](https://www.themoviedb.org/movie/872709 "흡연하면 기침한다 (Fumer fait tousser) (2023)")  
 [코너 오피스 (Corner Office) (2023)](https://www.themoviedb.org/movie/800279 "코너 오피스 (Corner Office) (2023)")  
 [Thelma (2024)](https://www.themoviedb.org/movie/1051891 "Thelma (2024)")  
 [카브리올레 (2024)](https://www.themoviedb.org/movie/987462 "카브리올레 (2024)")  
@@ -1136,6 +1142,9 @@ description: 영화, TV 별점 리스트
 [From (2022)](https://www.themoviedb.org/tv/124364 "From (2022)")  
 [尘封十三载 (2023)](https://www.themoviedb.org/tv/211927 "尘封十三载 (2023)")  
 ![100](../../assets/images/6.png)
+[협상 불가 (No negociable) (2024)](https://www.themoviedb.org/movie/1309923 "협상 불가 (No negociable) (2024)")  
+[안개에는 국경이 없다 (Kabut Berduri) (2024)](https://www.themoviedb.org/movie/1126357 "안개에는 국경이 없다 (Kabut Berduri) (2024)")  
+[Tuesday (2023)](https://www.themoviedb.org/movie/831395 "Tuesday (2023)")  
 [웨이크 우드 (Wake Wood) (2011)](https://www.themoviedb.org/movie/59726 "웨이크 우드 (Wake Wood) (2011)")  
 [나이트 하우스 (The Night House) (2021)](https://www.themoviedb.org/movie/547565 "나이트 하우스 (The Night House) (2021)")  
 [용문금검 (1969)](https://www.themoviedb.org/movie/115652 "The Golden Sword (1969)")  
@@ -1860,6 +1869,10 @@ description: 영화, TV 별점 리스트
 [Trại Hoa Đỏ (2022)](https://www.themoviedb.org/tv/205403 "Trại Hoa Đỏ (2022)")  
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
+
+[Detained (2024)](https://www.themoviedb.org/movie/1282960 "Detained (2024)")  
+[Dancing Village: The Curse Begins (Badarawuhi di Desa Penari) (2024)](https://www.themoviedb.org/movie/1176166 "Dancing Village: The Curse Begins (Badarawuhi di Desa Penari) (2024)")  
+[Don't Look at the Demon (2022)](https://www.themoviedb.org/movie/1022128 "Don't Look at the Demon (2022)")  
 [Starve Acre (2023)](https://www.themoviedb.org/movie/933090 "Starve Acre (2023)")  
 [Savi (2024)](https://www.themoviedb.org/movie/1297717 "Savi (2024)")  
 [이매지너리 (Imaginary) (2024)](https://www.themoviedb.org/movie/1125311 "이매지너리 (Imaginary) (2024)")  
@@ -2559,6 +2572,10 @@ description: 영화, TV 별점 리스트
 [Cidade Invisível (2021)](https://www.themoviedb.org/tv/110529 "Cidade Invisível (2021)")  
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
+[13 Exorcisms (2022)](https://www.themoviedb.org/movie/1026563 "13 Exorcisms (2022)")  
+[Dear David (2023)](https://www.themoviedb.org/movie/609768 "Dear David (2023)")  
+[The Devil’s Cult (Kultus Iblis) (2023)](https://www.themoviedb.org/movie/1164124 "The Devil’s Cult (Kultus Iblis) (2023)")  
+[Andromeda (2022)](https://www.themoviedb.org/movie/1051435 "Andromeda (2022)")  
 [10/31 (2017)](https://www.themoviedb.org/movie/483068 "10/31 (2017)")  
 [Visher (2024)](https://www.themoviedb.org/movie/1270762 "Visher (2024)")  
 [Human Animals (2020)](https://www.themoviedb.org/movie/676839 "Human Animals (2020)")  
@@ -2944,7 +2961,7 @@ description: 영화, TV 별점 리스트
 [連続殺人鬼カエル男 (2020)](https://www.themoviedb.org/tv/101643 "連続殺人鬼カエル男 (2020)")  
 [미남당 (2022)](https://www.themoviedb.org/tv/138663 "미남당 (2022)")  
 ![100](../../assets/images/3.png)
-
+[Hillock Haunting (2024)](https://www.themoviedb.org/movie/1322560 "Hillock Haunting (2024)")  
 [Abbey Grace (2016)](https://www.themoviedb.org/movie/419371 "Abbey Grace (2016)")  
 [스노우 폴스 (Snow Falls) (2023)](https://www.themoviedb.org/movie/737853 "스노우 폴스 (Snow Falls) (2023)")  
 [Lion-Girl (唐獅子仮面) (2024)](https://www.themoviedb.org/movie/1064802 "Lion-Girl (唐獅子仮面) (2024)")  
@@ -3095,6 +3112,7 @@ description: 영화, TV 별점 리스트
 [특수공인중개사 오덕훈 (2022)](https://www.themoviedb.org/tv/203343 "특수공인중개사 오덕훈 (2022)")  
 [โรงเรียนผีมีอยู่ว่า… (2022)](https://www.themoviedb.org/tv/203502 "โรงเรียนผีมีอยู่ว่า… (2022)")  
 ![100](../../assets/images/2.png)
+[Jurassic Triangle (2024)](https://www.themoviedb.org/movie/1032448 "Jurassic Triangle (2024)")  
 [The Bad Orphan (2024)](https://www.themoviedb.org/movie/1300721 "The Bad Orphan (2024)")  
 [The Woods Are Real (2024)](https://www.themoviedb.org/movie/1134094 "The Woods Are Real (2024)")  
 [The Jester (2023)](https://www.themoviedb.org/movie/1118595 "The Jester (2023)")  
