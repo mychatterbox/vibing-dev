@@ -1,4 +1,5 @@
 ---
+kind: article
 title: 영화, TV 별점
 author: mychatterbox
 pubDate: 2024-08-10
@@ -575,6 +576,8 @@ description: 영화, TV 별점 리스트
 [사막의 왕 (2022)](https://www.themoviedb.org/tv/202908 "사막의 왕 (2022)")  
 [이건 누명이야! 시칠리아 살인 미스터리 (Incastrati) (2022)](https://www.themoviedb.org/tv/154535 "Incastrati (2022)")  
 ![100](../../assets/images/7.png)
+
+[거룩한 술꾼의 전설 (La leggenda del santo bevitore) (1988)](https://www.themoviedb.org/movie/54990 "거룩한 술꾼의 전설 (La leggenda del santo bevitore) (1988)")  
 [슬픔의 삼각형 (Triangle of Sadness) (2023)](https://www.themoviedb.org/movie/497828 "슬픔의 삼각형 (Triangle of Sadness) (2023)")  
 [Ga-ga: Glory to the Heroes (1986)](https://www.themoviedb.org/movie/91691 "Ga-ga: Glory to the Heroes (1986)")  
 [O-Bi, O-Ba: The End of Civilization (1985)](https://www.themoviedb.org/movie/71933 "O-Bi, O-Ba: The End of Civilization (1985)")  
@@ -1882,6 +1885,7 @@ description: 영화, TV 별점 리스트
 [닥터 차정숙 (2023)](https://www.themoviedb.org/tv/214997 "닥터 차정숙 (2023)")  
 ![100](../../assets/images/5.png)
 
+[크로스 (2024)](https://www.themoviedb.org/movie/1002088 "크로스 (2024)")  
 [The Instigators (2024)](https://www.themoviedb.org/movie/1059064 "The Instigators (2024)")  
 [Zevcat (2024)](https://www.themoviedb.org/movie/1267742 "Zevcat (2024)")  
 [The Moor (2024)](https://www.themoviedb.org/movie/1155095 "The Moor (2024)")  
@@ -2588,6 +2592,9 @@ description: 영화, TV 별점 리스트
 [女鬼橋2：怨鬼樓 (2023)](https://www.themoviedb.org//999087 "女鬼橋2：怨鬼樓 (2023)")  
 ![100](../../assets/images/4.png)
 
+[Haile: A Family Nightmare (2023)](https://www.themoviedb.org/movie/1143839 "Haile: A Family Nightmare (2023)")  
+[Golam (2024)](https://www.themoviedb.org/movie/1222140 "Golam (2024)")  
+[하우스 오브 본즈 (House of Bones) (2010)](https://www.themoviedb.org/movie/50288 "하우스 오브 본즈 (House of Bones) (2010)")  
 [Dagr (2024)](https://www.themoviedb.org/movie/1208704 "Dagr (2024)")  
 [더 퍼펫맨 (The Puppetman) (2023)](https://www.themoviedb.org/movie/1146143 "더 퍼펫맨 (The Puppetman) (2023)")  
 [13 Exorcisms (2022)](https://www.themoviedb.org/movie/1026563 "13 Exorcisms (2022)")  
