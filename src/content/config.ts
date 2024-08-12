@@ -2,14 +2,12 @@ import { defineCollection, z } from "astro:content";
 
 const published = defineCollection({
   schema: z.object({
-    kind: z.enum(["article", "note"]).default("article"),
+    kind: z.enum(["article", "note"]).default("note"),
     title: z.string(),
     description: z.string(),
     pubDate: z.coerce.date(),
-    // tags: z.array(z.string()).default(["others"]),
+    tags: z.string().array().default([]),
     list: z.boolean().default(true),
-    featured: z.boolean().optional(),
-    pubDatetime: z.date().optional().nullable(),
   }),
 });
 
