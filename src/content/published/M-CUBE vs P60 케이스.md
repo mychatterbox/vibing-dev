@@ -1,4 +1,5 @@
 ---
+kind: article
 title: M-CUBE vs 파워트레인 P60 케이스 비교
 author: mychatterbox
 pubDate: 2024-08-03

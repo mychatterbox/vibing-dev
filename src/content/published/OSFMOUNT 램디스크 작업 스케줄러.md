@@ -1,4 +1,5 @@
 ---
+kind: article
 title: OSFMOUNT 램디스크 작업스케줄러
 author: mychatterbox
 pubDate: 2024-02-05

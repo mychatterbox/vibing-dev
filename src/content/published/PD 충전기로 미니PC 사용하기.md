@@ -1,4 +1,5 @@
 ---
+kind: article
 title: PD 충전기로 미니PC 사용하기
 author: mychatterbox
 pubDate: 2023-12-16
